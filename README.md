@@ -7,10 +7,10 @@ _____________________________
 | Front End  | Back End  | Server     |   Other       | Learning  |
 | ---------- | --------- | --------   | ---------     |--------   |  
 | React.js   | Node.js   | PostgresSQL| Visual Studios|typescrypt |
-| JavaScript | Express.js| --------   | Git           |Python  |
-| HTML5      | --------- | --------   | GitHub        |---------  |
+| JavaScript | Express.js| MySQL   | Git           |Python  |
+| HTML5      | --------- | --------   | GitHub        | AWS  |
 | CSS        | --------- | --------   | Heroku        |---------  |
-| SasS.      | --------- | --------   | Bit.io        |---------  |
+| SasS      | --------- | --------   | Bit.io        |---------  |
 | ---------- | --------- | --------   | MongoDB       |---------  |
 | ---------- | --------- | --------   | Command Line  |---------  |
 
