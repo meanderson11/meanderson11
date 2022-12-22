@@ -8,7 +8,7 @@ _____________________________
 | ---------- | --------- | --------   | ---------     |--------   |  
 | React.js   | Node.js   | PostgresSQL| Visual Studios|typescrypt |
 | JavaScript | Express.js| MySQL   | Git           |Python  |
-| HTML5      | --------- | --------   | GitHub        | AWS  |
+| HTML5      | --------- | Sequelize   | GitHub        | AWS  |
 | CSS        | --------- | --------   | Heroku        |---------  |
 | SaaS      | --------- | --------   | Bit.io        |---------  |
 | ---------- | --------- | --------   | MongoDB       |---------  |
